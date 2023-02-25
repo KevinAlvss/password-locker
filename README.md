@@ -1,5 +1,9 @@
 # Wolf Broker
 
+## Casos de uso
+
+https://whimsical.com/wolf-broker-X3JvkwLwjutfnSwNFmRTAv
+
 ## Funcionalidades
 
 ### Login
