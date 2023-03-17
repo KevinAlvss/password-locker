@@ -2,4 +2,4 @@
 
 ## Casos de uso
 
-https://whimsical.com/wolf-broker-X3JvkwLwjutfnSwNFmRTAv
+https://whimsical.com/password-locker-X3JvkwLwjutfnSwNFmRTAv
